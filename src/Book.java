@@ -34,7 +34,7 @@ public class Book {
         if (other == this) {
             return true;
         }
-        if (this == null) {
+        if (other == null) {
             return false;
         }
         if (this.getClass() != other.getClass()) {
@@ -45,6 +45,6 @@ public class Book {
     }
 
     public int hashCode() {
-        return java.util.Objects.hash(name) + java.util.Objects.hash(author) + java.util.Objects.hash(year);
+        return java.util.Objects.hash(name, author, year);
     }
 }

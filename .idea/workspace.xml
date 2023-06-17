@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd300f0d-c714-4c4a-b5d3-e596210b3a45" name="Changes" comment="Проверьте дз" />
+    <list default="true" id="cd300f0d-c714-4c4a-b5d3-e596210b3a45" name="Changes" comment="Проверьте дз">
+      <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +70,7 @@
       <workItem from="1686675802184" duration="2334000" />
       <workItem from="1686913450962" duration="6272000" />
       <workItem from="1686994966270" duration="672000" />
-      <workItem from="1687010117089" duration="1790000" />
+      <workItem from="1687010117089" duration="2114000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1686570632800</created>
@@ -98,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687021466172</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Проверьте дз">
+      <created>1687027798502</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687027798503</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
