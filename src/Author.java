@@ -23,7 +23,7 @@ public class Author {
         if (other == this) {
             return true;
         }
-        if (this == null) {
+        if (other == null) {
             return false;
         }
         if (this.getClass() != other.getClass()) {
