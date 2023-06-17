@@ -41,7 +41,7 @@ public class Book {
             return false;
         }
         Book book = (Book) other;
-        return name.equals(book.getName()) && author.equals(book.getAuthor());
+        return name.equals(book.getName()) && author.equals(book.getAuthor()) && year == book.getYear();
     }
 
     public int hashCode() {
