@@ -31,6 +31,12 @@ public class Book {
     }
 
     public boolean equals(Object other) {
+        if (other == this) {
+            return true;
+        }
+        if (this == null) {
+            return false;
+        }
         if (this.getClass() != other.getClass()) {
             return false;
         }
